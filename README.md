@@ -1,4 +1,4 @@
-![Banner](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/soarlogo.png)
+![Banner](https://github.com/SoaRSolana/solana-sniper-bot/blob/b257656bee951033f6daf35df7b9d001eb4b7e2a/images/soarlogo.png)
 
 ## SOAR SOLANA SNIPER BOT
 
@@ -68,9 +68,9 @@ First step:
 13. `STOP_LOSS=30` (in %)
 14. `BIRDEYE_APIKEY=` get here: https://docs.birdeye.so/docs/authentication-api-keys
 
-![](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/bot.png)
+![](https://github.com/SoaRSolana/solana-sniper-bot/blob/b257656bee951033f6daf35df7b9d001eb4b7e2a/images/bot.png)
 
-![](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/botsnipe.png)
+![](https://github.com/SoaRSolana/solana-sniper-bot/blob/b257656bee951033f6daf35df7b9d001eb4b7e2a/images/botsnipe.png)
 
 
 ## Auto Sell 📈
@@ -106,7 +106,7 @@ You can update the list while script is running. Script will check for new value
 > `Error: No SOL token account found in wallet: `  
 > it means that your wallet not have USDC/WSOL token account.
 > FIX: Go to [Jup.ag](https://jup.ag) and swap some SOL/USDC or SOL/WSOL.
-> ![](https://github.com/soarsniper/solana-sniper-bot/blob/aa4317123c3058de4e2c5101d8963b1162370b28/images/jupiter.png)
+> ![](https://github.com/SoaRSolana/solana-sniper-bot/blob/b257656bee951033f6daf35df7b9d001eb4b7e2a/images/jupiter.png)
 
 ## Help 📮
 Discord: @botsoar
